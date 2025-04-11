@@ -13,7 +13,7 @@ This project delivers a comprehensive and interactive dashboard for PRISM Insura
 8. Fully interactive with filters by Policy Number, Claim Number and Customer ID.
 
 ## Tools & Technologies Used
-1. SQL – used as the primary data source to structure and manage relational data.
+1. SQL Server – used as the primary data source to structure and manage relational data.
 2. Power Query – for data cleaning, transformation and preprocessing.
 3. DAX (Data Analysis Expressions) – for creating calculated metrics and KPIs.
 4. Power BI – for creating dynamic, interactive visualizations.
